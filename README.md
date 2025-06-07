@@ -3,7 +3,7 @@
 <h1 align="center">Hello World!👋, I'm Ayushman Bhatnagar</h1>
 <h3 align="center">🚀 Crafting Projects that Solve Problems | Web Development Enthusiast | Real-World Innovator</h3>
 
-## ✨ About me:
+## 😎 About me:
 - 🌱 I’m currently learning **GenAI, ML** 
 
 - 💬 Ask me about **Web Development**
