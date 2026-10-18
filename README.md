@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **ayushbhat0518@gmail.com**
+- 📫 How to reach me **ayushman.bhatnagar@outlook.com**
 
 - 💪 Looking to collaborate on **Projects**
 
