@@ -17,9 +17,9 @@
 
 ## ⚡GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m3ayush&show_icons=true&locale=en&layout=compact&theme=darcula&bg_color=00000000&hide_border=true" alt="m3ayush" /></p>
+<p><img align="left" src="./profile/top-langs.svg" alt="Most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m3ayush&show_icons=true&locale=en&theme=darcula&bg_color=00000000&hide_border=true" alt="m3ayush" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="GitHub statistics" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m3ayush&theme=darcula&background=FFFFFF00&hide_border=true" alt="m3ayush" /></p>
 
