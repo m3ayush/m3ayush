@@ -17,6 +17,8 @@
 
 ## ⚡GitHub Analytics
 
+[🔀 My merged open-source PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Am3ayush+is%3Apublic+-user%3Am3ayush&type=pullrequests)
+
 <p><img align="left" src="./profile/top-langs.svg" alt="Most used languages" /></p>
 
 <p>&nbsp;<img align="center" src="./profile/stats.svg" alt="GitHub statistics" /></p>
